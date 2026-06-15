@@ -29,8 +29,9 @@ This project is a mobile-responsive Instagram profile page clone built using onl
 
 ## Live Demo
 [Click here to view] https://github.com/komalshsh111-boop/fentixtech-task4
+https://fentixtech-task4.netlify.app/
 
 ## Developer
-- Name: Your Name
+- Name: komal shah
 - Course: Web Development
 - Institute: Your Institute Name
